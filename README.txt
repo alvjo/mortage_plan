@@ -1,0 +1,1 @@
+This application is counting out a mortage plan for the given data read from the file "prospects.txt". You run the application by compiling the code from the main class. 
